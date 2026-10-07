@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+features.tsv
+features.tsv.gz
+matrix.mtx.gz
+barcodes.tsv.gz
+app/sc1assay_RNA.h5
+app/sc1assay_SCT.h5

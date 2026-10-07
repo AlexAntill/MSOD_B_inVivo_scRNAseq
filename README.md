@@ -9,7 +9,7 @@ single-cell RNA sequencing (scRNA-seq) of MSOD-B from human ossicle. Deployed on
 ## 🌐 Live Application
 
 Access the hosted application on SciLifeLab Serve:\
-👉 **[rc88b546d.serve.scilifelab.se]**
+👉 **[https://r3570d6d7.serve.scilifelab.se/]**
 
 ------------------------------------------------------------------------
 
